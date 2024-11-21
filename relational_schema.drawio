@@ -877,6 +877,27 @@
         <mxCell id="H2UFEEocYlhoMAEy_XvL-152" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Github_org&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yMJn0GiZVWK62FaD5o9r-70">
           <mxGeometry x="1146.18" y="223.16" width="105.57" height="38.26" as="geometry" />
         </mxCell>
+        <mxCell id="H2UFEEocYlhoMAEy_XvL-153" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;reciver_id&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="416.2616793893129" y="1540.0059633027522" width="105.80152671755724" height="38.256880733944946" as="geometry" />
+        </mxCell>
+        <mxCell id="H2UFEEocYlhoMAEy_XvL-154" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;sender_id&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333.97160305343505" y="1540.0059633027522" width="82.29007633587784" height="38.256880733944946" as="geometry" />
+        </mxCell>
+        <mxCell id="H2UFEEocYlhoMAEy_XvL-155" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;msg_id&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="251.68152671755723" y="1540.0059633027522" width="82.29007633587784" height="38.256880733944946" as="geometry" />
+        </mxCell>
+        <mxCell id="H2UFEEocYlhoMAEy_XvL-156" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;created_at&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="522.0632061068702" y="1540.0059633027522" width="105.80152671755724" height="38.256880733944946" as="geometry" />
+        </mxCell>
+        <mxCell id="H2UFEEocYlhoMAEy_XvL-157" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;is_read&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.8612977099235" y="1540.0015596330272" width="82.29007633587784" height="38.256880733944946" as="geometry" />
+        </mxCell>
+        <mxCell id="H2UFEEocYlhoMAEy_XvL-158" value="&lt;span style=&quot;color: rgb(61, 71, 82);&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Message&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="251.68366412213737" y="1501.74871559633" width="117.55725190839694" height="38.256880733944946" as="geometry" />
+        </mxCell>
+        <mxCell id="H2UFEEocYlhoMAEy_XvL-159" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;description&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="710.1532061068702" y="1540.0059633027522" width="105.80152671755724" height="38.256880733944946" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
