@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="2">
   <diagram name="Page-1" id="WDVd_LqC4GoW-k4hKBYJ">
-    <mxGraphModel dx="2613" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="1349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O3_BD-yRTRTXSSuAmbW0-39" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="36" width="1670" height="920" as="geometry" />
         </mxCell>
-        <mxCell id="OCzAMqjJb4l3IwGh0EXq-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png;" vertex="1" parent="1">
+        <mxCell id="OCzAMqjJb4l3IwGh0EXq-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png;" parent="1" vertex="1">
           <mxGeometry x="902" y="633.75" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yqN9pOTxlsv4gtg9a_OV-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#3890df;shape=mxgraph.azure.laptop;pointerEvents=1;" parent="1" vertex="1">
@@ -136,7 +136,7 @@
             <mxPoint x="1932" y="121" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tg-QZ9ERZS_TfLqGiLW--68" value="&lt;b&gt;&lt;font color=&quot;#2b6ca6&quot; style=&quot;font-size: 13px;&quot;&gt;CI/CD pipeline server&lt;/font&gt;&lt;/b&gt;&lt;div&gt;This server is responsible for grading the students assignments according to unit-tests generated, and generates the environment to run the code.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="Tg-QZ9ERZS_TfLqGiLW--68" value="&lt;b&gt;&lt;font color=&quot;#2b6ca6&quot; style=&quot;font-size: 13px;&quot;&gt;Runner Server&lt;/font&gt;&lt;/b&gt;&lt;div&gt;This server is responsible for grading the students assignments according to unit-tests generated, and generates the environment to run the code.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1732" y="250.32999999999998" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Tg-QZ9ERZS_TfLqGiLW--69" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#3890df;strokeWidth=2;" parent="1" edge="1">
@@ -361,34 +361,34 @@
             <mxPoint x="1232" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IRMhFSd4O1QQGIIo-2bW-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#3890df;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="IRMhFSd4O1QQGIIo-2bW-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#3890df;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="862" y="820" as="sourcePoint" />
             <mxPoint x="862" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IRMhFSd4O1QQGIIo-2bW-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#3890df;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="IRMhFSd4O1QQGIIo-2bW-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#3890df;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1062" y="820" as="sourcePoint" />
             <mxPoint x="1062" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IRMhFSd4O1QQGIIo-2bW-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#3890df;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="IRMhFSd4O1QQGIIo-2bW-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#3890df;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="862" y="820" as="sourcePoint" />
             <mxPoint x="1062" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IRMhFSd4O1QQGIIo-2bW-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#3890df;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="IRMhFSd4O1QQGIIo-2bW-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#3890df;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="862" y="620" as="sourcePoint" />
             <mxPoint x="1062" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IRMhFSd4O1QQGIIo-2bW-9" value="&lt;font color=&quot;#2b6ca6&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Firebase&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;Used to authenticate users&lt;/div&gt;&lt;div&gt;accessing the system&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="IRMhFSd4O1QQGIIo-2bW-9" value="&lt;font color=&quot;#2b6ca6&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Firebase&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;Used to authenticate users&lt;/div&gt;&lt;div&gt;accessing the system&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="872" y="760" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IRMhFSd4O1QQGIIo-2bW-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#3890df;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="IRMhFSd4O1QQGIIo-2bW-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#3890df;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="950" y="590" as="sourcePoint" />
             <mxPoint x="950" y="610" as="targetPoint" />
