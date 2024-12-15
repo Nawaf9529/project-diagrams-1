@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lhk7WEIjp6KRM-AMNPzy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="150" width="90" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="O3_BD-yRTRTXSSuAmbW0-39" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="36" width="1670" height="920" as="geometry" />
         </mxCell>
@@ -349,8 +352,8 @@
             <mxPoint x="950" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eURbuQWR__LyPhmFVfOQ-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://resend.com/static/brand/resend-icon-white.png;imageBackground=default;fillStyle=solid;" parent="1" vertex="1">
-          <mxGeometry x="1783.96" y="147.81" width="89.67" height="89.67" as="geometry" />
+        <mxCell id="eURbuQWR__LyPhmFVfOQ-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://resend.com/static/brand/resend-icon-white.png;imageBackground=none;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="1783.97" y="145.16" width="89.67" height="89.67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
